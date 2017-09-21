@@ -4,7 +4,7 @@ import './index.css'
 import { AppContainer } from 'react-hot-loader'
 import App from './App'
 import registerServiceWorker from './registerServiceWorker'
-import 'semantic-ui-css/semantic.min.css';
+import 'semantic-ui-css/semantic.min.css'
 
 function render(Component) {
   ReactDOM.render(

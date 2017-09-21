@@ -1,0 +1,8 @@
+body > div,
+body > div > div,
+body > div > div > div.login-form {
+  height: 100%;
+}
+.field > label{
+    text-align: left
+}
